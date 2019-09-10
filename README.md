@@ -1,0 +1,2 @@
+# Segdop
+HomeAssistant Grow Automation
